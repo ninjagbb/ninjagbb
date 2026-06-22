@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="banner](https://github.com/ninjagbb/ninjagbb/blob/main/download.webp)"/>
+  <img src="https://github.com/ninjagbb/ninjagbb/blob/main/download.webp"/>
 </div>
 
 <!-- TITLE -->
