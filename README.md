@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://github.com/ninjagbb/ninjagbb/blob/main/download.webp"/>
+  <img src="https://github.com/ninjagbb/ninjagbb/blob/main/3d%20sticker%20whatsapp%20_%20Gumball%20GIF%20-%20Gumball%20-%20Discover%20%26%20Share%20GIFs.gif"/>
 </div>
 
 <!-- TITLE -->
