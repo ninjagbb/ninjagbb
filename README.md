@@ -17,9 +17,7 @@
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
-Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
-
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
+Currently studying Software Development at technical school, focusing on programming logic, algorithms, databases, web development and IoT systems. Learning HTML, CSS, JavaScript, SQL, embedded systems and computational thinking through practical projects and hands-on activities.
 
 <img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
 
