@@ -19,7 +19,7 @@
 
 Currently studying Software Development at technical school, focusing on programming logic, algorithms, databases, web development and IoT systems. 
 
-Learning HTML, CSS, JavaScript, SQL, embedded systems and computational thinking through practical projects and hands-on activities.
+Learning *HTML*, *CSS*, *JavaScript*, *SQL*, *embedded systems* and *computational thinking through practical projects and hands-on activities*.
 
 <img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
 
